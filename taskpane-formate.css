@@ -1,0 +1,25 @@
+
+
+h1 {
+	font-family: Arial;
+  font-size: large;
+  color: rgba(12, 144, 21, 0.723);
+  }
+h2 {
+	font-family: Arial;
+  font-size:medium;
+  color: rgba(38, 16, 236, 0.905);
+  }
+p {
+    font-family: arial;
+  }  
+p, table, ul { 
+    font-size: 1.0em; 
+  }
+
+    .Schrift01 {font-style: italic;}
+    .Schrift01.ColorSel {color: green;}
+body {
+    font-family: arial;
+    
+}
